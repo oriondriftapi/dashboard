@@ -44,3 +44,13 @@ If you have any trouble compiling, downloading, or just general issues with the 
 Please make an issue in the issues tab, or contact us on discord!
 
 To contact us on discord please DM us at @oriondriftapi, or join our [discord server](https://discord.gg/v383ngramQ)
+
+## License
+Copyright (c) 2025 Orion Dashboard. All Rights Reserved.
+
+This source code and all associated files are the property of Orion Dashboard.
+You may view and compile this code for personal or educational purposes only.
+
+Redistribution, modification, sublicensing, or republication of this code,
+in whole or in part, is strictly prohibited without explicit written
+permission from the author.
