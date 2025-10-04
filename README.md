@@ -1,2 +1,2 @@
 # dashboard
-C++ and ImGui based dashboard app surrounding the game Orion Drift's API.
+C++ and ImGui based dashboard app surrounding Orion Drift's API.
