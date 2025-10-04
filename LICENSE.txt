@@ -1,0 +1,8 @@
+Copyright (c) 2025 Orion Dashboard. All Rights Reserved.
+
+This source code and all associated files are the property of Orion Dashboard.
+You may view and compile this code for personal or educational purposes only.
+
+Redistribution, modification, sublicensing, or republication of this code,
+in whole or in part, is strictly prohibited without explicit written
+permission from the author.
