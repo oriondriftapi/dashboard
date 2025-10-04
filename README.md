@@ -21,6 +21,9 @@ If you do want to sign-in to the dashboard, please follow this [YouTube Video](h
 Once you get your API key, be sure to enter it into the input field above the "login" button,
 If you put the API Key in correctly, then it should have put you onto a different page, which then you can view all the Stations, Fleets, and mothership info (which is what Orion Drift's backend is built on)
 
+After you login once with the Dashboard, it gives you the option to "Load the previous API Key used" to login,
+The previous API Key used is saved inside registry, at the address "Programs\\OrionDashboard\\OD_API_KEY".
+
 ## Dependencies
 - [imgui](https://github.com/ocornut/imgui)
 - [json](https://github.com/nlohmann/json)
