@@ -14,6 +14,10 @@ C++ and ImGui based dashboard app surrounding Orion Drift's API.
 4. After opening the project in Visual Studio, navigate to the 'build' tab on the toolbar and then build the solution
 5. Go to the build directory (depends on if you build in DEBUG or RELEASE) and open the .exe generated
 
+## How to use
+Once you run the .exe you compiled or downloaded from the repo. It will prompt you to "sign-in", now you can continue as a guest, but you will be limited to only station viewing and fleet viewing,
+If you do want to sign-in to the dashboard, please follow this [YouTube Video](https://youtu.be/IPsDr3ZOE24) to get your api key.
+
 ## Dependencies
 - [imgui](https://github.com/ocornut/imgui)
 - [json](https://github.com/nlohmann/json)
