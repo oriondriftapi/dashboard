@@ -19,8 +19,7 @@ C++ and ImGui based dashboard app surrounding Orion Drift's API.
 Once you run the ```.exe``` you compiled or downloaded from the repo, it will prompt you to "sign in".
 You can continue as a guest, but you will be limited to only station viewing and fleet viewing.
 
-If you want to sign in to the dashboard, please follow this YouTube video to get your API key:
-https://www.youtube.com/watch?v=IPsDr3ZOE24
+If you want to sign in to the dashboard, please watch the [Youtube Video](https://www.youtube.com/watch?v=IPsDr3ZOE24) for more information on getting your API Key.
 
 Once you get your API key, enter it into the input field above the "Login" button.
 If you entered it correctly, you’ll be taken to a new page where you can view all the Stations, Fleets,
