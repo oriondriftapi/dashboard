@@ -29,6 +29,7 @@ and Mothership information (the same data used by Orion Drift’s backend).
 After logging in once, the Dashboard will give you the option to "Load the previous API Key used" on future launches. 
 
 The previous API key is saved in the Windows Registry at:
+
 ```Programs\OrionDashboard\OD_API_KEY```
 
 ## Dependencies
