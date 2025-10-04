@@ -14,3 +14,9 @@ C++ and ImGui based dashboard app surrounding Orion Drift's API.
 
 ## How it works
 The client side of the Dashboard (the application you open) talks to our python backend, this is how all the stations, fleets and all api info are retrieved from
+
+## Support
+If you have any trouble compiling, downloading, or just general issues with the repo.
+Please make an issue in the issues tab, or contact us on discord!
+
+To contact us on discord please DM us at @oriondriftapi, or join our [discord server](https://discord.gg/v383ngramQ)
