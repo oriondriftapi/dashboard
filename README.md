@@ -9,8 +9,8 @@ C++ and ImGui based dashboard app surrounding Orion Drift's API.
    ```powershell
    git clone https://github.com/oriondriftapi/dashboard.git
    ```
-2. Before opening the .sln file, confirm you have a version of Visual Studio downloaded, this could be either Visual Studio 2022 -> Visual Studio 2026.
-3. Open the .sln file inside of Visual Studio 2022 (or Visual Studio 2026)
+2. Before opening the .sln file, confirm you have a version of Visual Studio downloaded, this could be either Visual Studio 2022 -> Visual Studio 2026
+3. Open the .sln file inside of your Visual Studio installation
 4. After opening the project in Visual Studio, navigate to the 'build' tab on the toolbar and then build the solution
 5. Go to the build directory (depends on if you build in DEBUG or RELEASE) and open the .exe generated
 
