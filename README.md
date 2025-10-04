@@ -1,6 +1,10 @@
 
 # ![API Dashboard](OD_API_IMAGE_SMALLER.png) API Dashboard
 
+**Important Note**
+The project is currently not uploaded to the GitHub.
+But it should be coming very soon, as its still being actively worked on before being pre-released.
+
 ## Summary
 C++ and ImGui based dashboard app surrounding Orion Drift's API.
 
