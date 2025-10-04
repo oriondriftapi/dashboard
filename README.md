@@ -1,5 +1,5 @@
 
-# ![API Dashboard](OD_API_IMAGE.png) API Dashboard
+# ![API Dashboard](OD_API_IMAGE_SMALL.png) API Dashboard
 
 ## Summary
 C++ and ImGui based dashboard app surrounding Orion Drift's API.
