@@ -26,12 +26,10 @@ Once you get your API key, enter it into the input field above the "Login" butto
 If you entered it correctly, you’ll be taken to a new page where you can view all the Stations, Fleets,
 and Mothership information (the same data used by Orion Drift’s backend).
 
-After logging in once, the Dashboard will give you the option to "Load the previous API Key used"
-on future launches. The previous API key is saved in the Windows Registry at:
+After logging in once, the Dashboard will give you the option to "Load the previous API Key used" on future launches. 
 
-```
-Programs\OrionDashboard\OD_API_KEY
-```
+The previous API key is saved in the Windows Registry at:
+```Programs\OrionDashboard\OD_API_KEY```
 
 ## Dependencies
 - [imgui](https://github.com/ocornut/imgui)
