@@ -40,6 +40,11 @@ The previous API key is saved in the Windows Registry at:
 - [json](https://github.com/nlohmann/json)
 - [curl](https://github.com/curl/curl)
 
+## Build Requirements
+- Windows 10 or 11
+- C++ 20 (or greater) Runtime
+- Visual Studio 2022 (or 2026)
+
 ## How it works
 The client side of the Dashboard (the application you open) talks to our javascript backend (i know this isnt very ideal lol), this is what all the stations, fleets, and players are retrieved from.
 
