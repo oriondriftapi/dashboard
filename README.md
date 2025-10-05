@@ -33,7 +33,7 @@ After logging in once, the Dashboard will give you the option to "Load the previ
 
 The previous API key is saved in the Windows Registry at:
 
-```Programs\OrionDashboard\OD_API_KEY```
+```HKEY_CURRENT_USER\Programs\OrionDashboard\OD_API_KEY```
 
 ## Dependencies
 - [imgui](https://github.com/ocornut/imgui)
